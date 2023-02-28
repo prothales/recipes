@@ -1,5 +1,14 @@
 [[_TOC_]]
 
+## intro
+
+This recipe just makes me buy more bananas so I can make more banana bread. \
+RIP to the idea of not wasting just 2 bananas. 
+
+## remarks
+
+the spices and extra flavors like vanilla and peanut butter can be replaced by anything that looks alike. ie. almond butter instead of peanut butter.
+
 ## ingredients
 
 ### bread
@@ -41,7 +50,7 @@
 - add spices
 - crush the chocolate and add to mixture
 - add the flower
-- putt everything in the baking form
+- put everything in the baking form
 
 ### topping
 
@@ -51,7 +60,7 @@
 
 ### cooking
 
-- putt it in the oven for 65min
+- put it in the oven for 65min
 - check then every 10 min to see if it cooked through
 - after it comes ut of the oven wait 2 hours and don't touch it
 - remove from baking form
